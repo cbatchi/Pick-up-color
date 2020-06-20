@@ -1,7 +1,3 @@
-# An application in vanilla js generating a color code randomly
+# Random color generator
 
-## How it work ? 
- Just clone the repo and open it inside your web-browser
-``` diff -In your terminal run :
-    git clone git@github.com:cbatchi/Pick-up-color.git && cd Pick-up-color.git && chrome index.html
-```
+Ceci est un génerateur aleatoire de couleurs au format hexadecimal
